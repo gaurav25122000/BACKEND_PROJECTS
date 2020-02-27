@@ -204,7 +204,7 @@ getimage(p-4*BALLOON_SIZE,q-5*BALLOON_SIZE,p+4*BALLOON_SIZE,q+7*BALLOON_SIZE,bal
    free(balloon);
    closegraph();
 }
-// Downloaded from www.indiaexam.in
+
 void draw_balloon(int x,int y)
 {
 	 setcolor(RED);
